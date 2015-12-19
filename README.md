@@ -1,4 +1,4 @@
-# Lets-Be-Friend-App
+# Lets-Be-Friend-Web-App
 An servlet Based Java Application using MongoDB,JavaScript,JQuery
 
 
