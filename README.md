@@ -5,5 +5,4 @@ An servlet Based Java Application using MongoDB,JavaScript,JQuery
 - Details are stored in MongoDB, All other Friend Details are Shown in an HTML Page., Done using Servlets.
 - Search for Friends in their Friend List has been Implemented.
 
-
-Still in Development Phase .. Trying to Add Some More Details about Students.
+Development Phase - Trying to Add Some More Information about Students.
